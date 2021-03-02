@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: solid 2px red;
+    background-color: black;
 }
 .discover {
     font-size: 50px;
